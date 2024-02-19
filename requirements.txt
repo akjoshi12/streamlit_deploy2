@@ -2,4 +2,4 @@ opencv-python-headless
 opencv-python==4.9.0.80
 streamlit==1.31.1
 ultralytics==8.1.15
-pyttsx3==2.90
+pyttsx3==2.76
